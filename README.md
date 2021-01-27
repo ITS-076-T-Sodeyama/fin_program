@@ -1,2 +1,2 @@
-# fin_program
+# cheryuki1102
 Created with CodeSandbox
